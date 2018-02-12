@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rir_statistics_exchange_schema.iml" filepath="$PROJECT_DIR$/.idea/modules/rir_statistics_exchange_schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rir_statistics_exchange_schema-build.iml" filepath="$PROJECT_DIR$/.idea/modules/rir_statistics_exchange_schema-build.iml" />
+    </modules>
+  </component>
+</project>
