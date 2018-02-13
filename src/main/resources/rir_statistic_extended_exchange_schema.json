@@ -83,7 +83,7 @@
             "required":["type","first_address","count"]
           }
         },
-        "required":["registry","country_code","date","status","resource"]
+        "required":["registry","status","resource"]
       }
     }
   },
