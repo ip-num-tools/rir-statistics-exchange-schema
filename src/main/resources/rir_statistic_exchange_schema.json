@@ -36,8 +36,7 @@
                     "required":["url", "signature"]
                 }
             }
-        },
-        "required":["source"]
+        }
     },
     "version": { "type": "number" },
     "registry": {"$ref": "#/definitions/rir"},
