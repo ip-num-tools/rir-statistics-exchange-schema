@@ -78,7 +78,7 @@
                             ]
                         },
                         "prefix": {"type":"string"},
-                        "count": {"type":"integer"}
+                        "count": {"type":"number"}
                     },
                     "required":["type","first_address","count"]
                 }
